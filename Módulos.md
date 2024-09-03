@@ -2,7 +2,7 @@
 
 **Cierre de Quincena:** Un módulo para calcular el total de litros vendidos por cliente al final de cada quincena.
 
-**Usuarios: **Gestión de los usuarios que acceden al sistema.
+**Usuarios:** Gestión de los usuarios que acceden al sistema.
 
 **Clientes:** Administración de la información de los clientes.
 
