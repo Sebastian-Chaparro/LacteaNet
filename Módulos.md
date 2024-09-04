@@ -12,8 +12,8 @@
 
 **Lista Litros:** Para listar y visualizar las ventas registrad
 
-**Lenguaje de progamacion:** Python
+**Lenguaje de progamacion:** PHP
 
 **Lenguaje Base de Datos:** MySQL
 
-**Interfaz:** Capa personalizada web mediante el uso de plantillas
+**Interfaz:** Capa personalizada web mediante el uso de plantillas Bootstrap
