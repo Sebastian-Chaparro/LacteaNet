@@ -9,3 +9,9 @@
 **Compra Litros:** Módulo para registrar las compras de litros de leche.
 
 **Lista Litros:** Para listar y visualizar las ventas registrad
+
+**Lenguaje de progamacion:** Python
+
+**Lenguaje Base de Datos:** MySQL
+
+**Interfaz:** Capa personalizada web mediante el uso de plantillas
