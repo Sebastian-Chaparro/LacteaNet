@@ -1,3 +1,5 @@
+**LACTEANET PROYECTO**
+
 **Registro de Leche:** Este módulo se utiliza para registrar las ventas de leche por cliente, permitiendo un seguimiento preciso de las cantidades vendidas.
 
 **Cierre de Quincena:** Un módulo para calcular el total de litros vendidos por cliente al final de cada quincena.
